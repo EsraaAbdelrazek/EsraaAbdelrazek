@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa Ahmed</h1>
-<h3 align="center">A passionate Teaching Assistant @ E-JUST University.</h3>
+<h3 align="center"> Teaching Assistant @ E-JUST University.</h3>
 
 - 🌱 I’m currently learning Data Engineering **Hadoop.**
 
